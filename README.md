@@ -23,7 +23,7 @@
 
 <details><summary><h3>Trophies 🏆</h3></summary>
   
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sahill-op&row=2&column=3&margin-w=8&margin-h=8)](https://sahill-op.github.io/sahil-op.github.io/)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sahill-op&theme=radical&green=true&cache_seconds=1800)](https://sahill-op.github.io/sahil-op.github.io/)
 
 </details>
 </details>
