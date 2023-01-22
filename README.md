@@ -16,7 +16,7 @@ I'm a developer,started programming in high school, and currently live in Jaunpu
 
 <details><summary><h3>Github Stats 📊</h3></summary>
 
-  [<img src="https://github-readme-stats.vercel.app/api?username=sahilsi552&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sahilsi552)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsi552&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/sahilsi552)
+  [<img src="https://github-readme-stats.vercel.app/api?username=sahill-op&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sahill-op)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahill-op&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/sahill-op)
 
 </details>
 </details>
