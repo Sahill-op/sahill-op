@@ -23,7 +23,7 @@ I'm a developer,started programming in high school, and currently live in Jaunpu
 
 <details><summary><h3>Trophies 🏆</h3></summary>
   
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sahill-op&theme=green&dark=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://sahill-op.github.io/sahil-op.github.io/)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sahill-op&row=2&column=3&margin-w=8&margin-h=8)](https://sahill-op.github.io/sahil-op.github.io/)
 
 </details>
 </details>
