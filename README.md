@@ -6,7 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h4 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗦𝗮𝗵𝗶𝗹
 𝗜'𝗺 𝗮 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿,𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴𝗶𝗻𝗴 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹, 𝗮𝗻𝗱 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗶𝘃𝗲 𝗶𝗻 𝗝𝗮𝘂𝗻𝗽𝘂𝗿, 𝘂𝗽. 𝗜 𝗹𝗶𝗸𝗲 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲, 𝗮𝗻𝗱 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲 𝗜'𝗺 𝗮𝗰𝘁𝗶𝘃𝗲 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.</𝗵𝟰>
-
 </details>
 
 <details><summary><h3>Profile Hits 🥷🏻</h3></summary>
